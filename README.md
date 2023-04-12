@@ -1,4 +1,4 @@
-# AWS_ElasticBeanStalk
+# AWS_ElasticBeanStalk:
 
 ![image](https://user-images.githubusercontent.com/89836369/228110223-2d9142d2-ff30-463e-b102-eae9a87ca06e.png)
 
